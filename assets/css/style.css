@@ -6,8 +6,8 @@ body{
 	width: 86px;
 }
 
-.card{
-	margin: 0 auto;
+.cards-tam {
+    height: 100%;
 }
 
 .text-secondary{
